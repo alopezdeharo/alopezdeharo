@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Adrián
 
-<!--
-**alopezdeharo/alopezdeharo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Developer with a hybrid background in **development + IT systems + automation**  
+- Focused on building clean, scalable applications  
+- Exploring **Cybersecurity & Big Data**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- Strong background in **IT systems & infrastructure**
+- Passionate about **automation and problem solving**
+- Building mobile apps with **Flutter**
+- Interested in **scalable systems, data and security**
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile
+- Flutter (Riverpod, Drift, go_router)
+
+### ⚙️ Systems & IT
+- Active Directory
+- GPOs
+- Windows Server
+- Networking & Firewalls
+- Virtualization (VMWare, Linux)
+
+### 🧪 Testing & Automation
+- Scripting
+
+---
+
+## 🚀 Featured Projects
+
+### 🧩 DoBoard — Task Management App
+> Advanced productivity app inspired by Kanban methodologies
+
+- Flutter (Clean Architecture)
+- Riverpod 2 (manual state management)
+- Drift (local database)
+- Advanced features: Pomodoro, task prioritization, smart keywords
+
+👉 [View Repository](https://github.com/alopezdeharo/doboard)
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: www.linkedin.com/in/adrian-lhg
