@@ -77,4 +77,4 @@
 
 ## 🤝 Let's Connect
 
-- LinkedIn: www.linkedin.com/in/adrian-lhg
+- LinkedIn: www.linkedin.com/in/adrianlopezdeharo
